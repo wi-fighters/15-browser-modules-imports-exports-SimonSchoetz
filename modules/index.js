@@ -48,6 +48,5 @@ aspectForm.addEventListener("change", () => {
     const ratio2 = document.querySelector("#ratio_2").value
     const ratioWidth = document.querySelector("#ratio_result-width").value
     const ratioHeight = document.querySelector("#ratio_result-height").value
-    console.log(calculateAspectRatio(ratio1, ratio2, ratioWidth, ratioHeight))
-
+    document.querySelector("#ratio_result-height").value = calculateAspectRatio(ratio1, ratio2, ratioWidth, ratioHeight)
 })
