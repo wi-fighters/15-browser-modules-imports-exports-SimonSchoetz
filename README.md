@@ -7,3 +7,6 @@
 
 **Notes**:
 * Deadline: ~ 1hr-1.5hrs
+
+-------------------
+ In case you lose the link: https://github.com/wi-fighters/15-browser-modules-imports-exports-SimonSchoetz
